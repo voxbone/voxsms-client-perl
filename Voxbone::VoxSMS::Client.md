@@ -43,7 +43,7 @@ Sends an SMS to the VoxSMS server.  Returns a transaction_id if successfull unde
 
 - msg
 
-The message to send, must not exceed the maximum SMS length see [Voxbone::VoxSMS::Fragment](http://search.cpan.org/perldoc?Voxbone::VoxSMS::Fragment) for help splitting a message into appropriate chunks
+The message to send, must not exceed the maximum SMS length see [Voxbone::VoxSMS::Fragment](/Voxbone::VoxSMS::Fragment) for help splitting a message into appropriate chunks
 
 - frag
 
@@ -69,7 +69,7 @@ sends a delivery report for a previously received sms.  Takes teh following para
 
 - orig_req
 
-The original sms object as received from handle_sms subroutine reference in [Voxbone::VoxSMS::Server](http://search.cpan.org/perldoc?Voxbone::VoxSMS::Server) 
+The original sms object as received from handle_sms subroutine reference in [Voxbone::VoxSMS::Server](/Voxbone::VoxSMS::Server) 
 
 - delivery_status
 
