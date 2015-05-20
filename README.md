@@ -1,9 +1,11 @@
 # voxsms-client-perl-lib
 
 To build run
+```
 perl Makefile.PL
 make
 make install
+```
 
 The API consists of 3 parts
 
