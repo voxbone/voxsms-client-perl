@@ -5,7 +5,7 @@ Voxbone::Fragment - Utility Library To Find Optimal Size of SMS messages
 # SYNOPSIS
 
     use Voxbone::Fragment;
-    my  @fragments = voxsms\_fragment\_message($msg); # returns an array of fragments
+    my  @fragments = voxsms_fragment_message($msg); # returns an array of fragments
 
 # DESCRIPTION
 
