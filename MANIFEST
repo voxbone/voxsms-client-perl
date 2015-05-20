@@ -1,0 +1,5 @@
+MANIFEST
+lib/Voxbone/VoxSMS/Client.pm
+lib/Voxbone/VoxSMS/Fragment.pm
+lib/Voxbone/VoxSMS/Server.pm
+Makefile.PL
