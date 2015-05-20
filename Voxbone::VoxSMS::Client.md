@@ -75,13 +75,13 @@ The original sms object as received from handle_sms subroutine reference in [Vox
 
 delivery status for the sms, can be one of the following values:
 
-   - message_waiting
-   - delivered_to_network
-   - delivered_to_terminal
-   - delivery_expired
-   - delivery_failed
-   - delivery_rejected
-   - delivery_impossible
+    - message_waiting
+    - delivered_to_network
+    - delivered_to_terminal
+    - delivery_expired
+    - delivery_failed
+    - delivery_rejected
+    - delivery_impossible
 
 - status_code
 
