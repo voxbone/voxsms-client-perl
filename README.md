@@ -7,6 +7,8 @@ make
 make install
 ```
 
+An example application (json_client.pl) is included in the client directory.  The example has extra dependencies, see the comments in the script for dependency information.
+
 The API consists of 3 parts
 
 [Voxbone::VoxSMS::Fragment](/Voxbone::VoxSMS::Fragment.md) - a tool to split a string into SMS-sized chunks
